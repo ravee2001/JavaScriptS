@@ -1,11 +1,11 @@
-var hello = "Hello"
+var hello = "Hello";
 
-console.log(hell);
+console.log(hello);
 hello = "Hello World";
 console.log(hello);
     
-    if (trun) {
-        let World = "Hello World";
+    if (true) {
+        let world = "Hello World";
         console.log(world);
     }
     // console.log(world);
