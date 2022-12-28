@@ -8,3 +8,4 @@ function logQuote(quote){
 }
     createQuote("you will getting better!", logQuote);//1
 
+
