@@ -16,4 +16,5 @@ const checkWeinght = (weight) => {
     checkWeinght(25); //
 
     //Concise arrow functions
-    const multiply = (a,b)
+    const multiply = (a,b) => a * b;
+    console.log(musltiply(2 , 30)); // Prints: 60
