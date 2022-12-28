@@ -1,10 +1,11 @@
 function reverseString(value) {
-    let reverseValue = "" ;
+    let reversedValue = "" ;
 
     value.split("").forEach((char) => {
-        reversed = char + reversedValue
+        reversedValue = char + reversedValue
     });
-    return reverseValue
+    
+    return reversedValue;
 }
 
-console.log(reverseStirn("Reverse Me"));
+console.log(reverseString("Reverse Me"));
