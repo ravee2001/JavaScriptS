@@ -7,5 +7,18 @@ function yayOrNay() {
 }
 
 async function msg() {
-    
+    try {
+        const msg = await yayOrNay();
+        console.log(msg);
+    } catch (err) {
+        console.log(err);
+    }
 }
+
+msg(); // Lucky!!
+msg(); // Lucky!!
+msg(); // Lucky!!
+msg(); // Nope
+msg(); // Lucky!!
+msg(); // Nope
+msg(); // Nope
