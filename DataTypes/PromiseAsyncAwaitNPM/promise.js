@@ -13,7 +13,7 @@ promiseTimoeout(2000)
     console.log("Also done!!");
     return Promise.resolve(42);
 })
-.then((reslt) => {
+.then((result) => {
     console.log(result);
 })
 .catch(() => {
