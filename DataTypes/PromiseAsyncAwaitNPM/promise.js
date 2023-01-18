@@ -3,7 +3,7 @@ function promiseTimoeout(ms) {
         setTimeout(resolve, ms);
     });
 }
-
+console.log("Start");
 promiseTimoeout(2000)
 .then(() => {
     console.log("Done!!");
@@ -19,3 +19,4 @@ promiseTimoeout(2000)
 .catch(() => {
     console.log("Error!")
 });
+console.log("End");
