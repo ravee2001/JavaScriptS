@@ -3,6 +3,9 @@
 //totalVolume([1, 1, 1]) -> 1
  
 
+
+
+
 //const arrayOfnumbers1 = [2, 2, 2]
 //const arrayOfnumbers2 = [2, 1, 1]
 //let num1 = arrayOfnumbers1;
@@ -14,10 +17,10 @@
 
 
 //console.log(sum); //10
-========================================
+//========================================
 
 //console.log(Math.min(1, 1, 1));
-=========================================
+//=========================================
 
 const numbers = [10, 20, 30, 40]
 const result = numbers.reduce((sum,number) => {
