@@ -5,4 +5,6 @@
 
 
 
-console.log(Math.min(-2,-3,-1));
+//console.log(Math.max(379));
+
+const highestDigit = [379]
