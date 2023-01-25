@@ -3,4 +3,4 @@
 //numberSplit(11) -> (2,2)
 //numberSplit(-9)-> (-5,-4)
 
-console.log(Math.floor(4));
+let 
