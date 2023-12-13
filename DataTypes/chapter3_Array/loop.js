@@ -22,3 +22,9 @@ for (let name of names) {
 }
 
 // do while loop **sniplet
+// console.log('-- do while --');
+// let index2 = 0;
+// while (index < names.length){
+//     const name = names[index];
+//     console.log(name);
+// }
